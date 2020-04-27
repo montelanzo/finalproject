@@ -6,8 +6,8 @@
 
 // Global variables
 var p1Score=0;
-var p2Score=0;
-var currentPlayer = 1;
+//var p2Score=0;
+//var currentPlayer = 1;
 var randButtonId = 1;
 
 setBoard();   
